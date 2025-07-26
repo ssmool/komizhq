@@ -1,7 +1,7 @@
 # KomizHQ - Orchestration Engine for Gen-AI Comic Creation 🎨🤖
 Drawn a Cartoon and Customized Commix with Python like a plugins install support and export stages for printedf file with Python Package Install
 
-![KomizHQ Logo](assets/komiz_hq_lapp.gif)
+![KomizHQ Logo](./assets/komiz_hq_lapp.gif)
 
 **KomizHQ** is a Python-based orchestration toolkit designed for engineers working with RAG (Retrieval-Augmented Generation) and Gen-AI pipelines for automated comic creation and visual storytelling.
 
