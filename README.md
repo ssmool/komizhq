@@ -66,3 +66,8 @@ Stay tuned for updates!
 ## 📘 Documentation
 
 The full user manual and editor GUI showcase are **currently under development** and will be made available in the repository shortly.
+
+## 📦 CineOS Barsotti @buskplay - RAG PARTS:
+
+** komizhq is a part of the CineOS Barsotti @buskplay - Unix Like project and aligned with global goals for decentralized AI-assisted creative office suits and editors by generative creativity. **
+
